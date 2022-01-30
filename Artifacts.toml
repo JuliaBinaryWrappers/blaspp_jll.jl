@@ -1,0 +1,288 @@
+[[blaspp]]
+arch = "aarch64"
+git-tree-sha1 = "687461df2386490be7f3f2fe749400976ceef326"
+os = "macos"
+
+    [[blaspp.download]]
+    sha256 = "58261b9428f57fdd4f404bc353428c316773e1766b7f6cec63bff35dde74e28f"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.aarch64-apple-darwin.tar.gz"
+[[blaspp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8350d4448bc8b3dd0cb9a2be3b0b8fb58c7fbe55"
+libc = "glibc"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "0c09c1badabd5d01a413ddf66c03d369029d31ffbf667e37a1a7250dfa48dd4b"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[blaspp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2fb38d800085dfbcee6e38a13e87f2a6595b72ec"
+libc = "glibc"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "da8425aac2457a6b1ba15c2bcf21b3b3667ce2641602f0b373d1ea7b76bc4533"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[blaspp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2fd9abb9f9e14a30a2706bd0ee297c3e55b75648"
+libc = "musl"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "56767c0bf18606d1d0d5e5449935d2c34df5e4fb0f78111bbe901142135f516f"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.aarch64-linux-musl-cxx03.tar.gz"
+[[blaspp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b3490f7bed0af93e5f87f60cebdf084c99dda71"
+libc = "musl"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "d149e6ed88d666463f80f7c9e9cd91f09ccae7118788170daa6af1279de4ba11"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.aarch64-linux-musl-cxx11.tar.gz"
+[[blaspp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "49bb3a6b7fabe21126e95f79bce12f552fafcdf1"
+libc = "glibc"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "48763fbc5978a6f8a9c953d274ee9ea869c67840d2e1ab22d5ca74b6ec14b801"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[blaspp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "de489afaba679b7de4ebd595e7a0d9a6e04c3ff0"
+libc = "glibc"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "343b6ca065ac18601a410cc14055882a41cc30c5d5d456d983504daab5d07b4a"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[blaspp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9d1430b154093af43fa14725a970f078c29cd333"
+libc = "musl"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "d88e3fe2ba293784c85daddceb7a0622a89004b468d102f1e3994bf1e94e15d7"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[blaspp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "de9c14f61f6b66ccdca802f2042919aa11072644"
+libc = "musl"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "20e412cbe343e09c6146aaf2b66021639ec9c1d13b7be2e2229c131a9e80d01e"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[blaspp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "70127a8ee468a73c49c11c36c7bbad0360874ba3"
+libc = "glibc"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "f5f3c4aae7072e11a2ad6027fb573ce2944ec5263953e5758eb8c626dac3675d"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[blaspp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aecc1abce37bd3ac954dae6f75bed94dd39a5006"
+libc = "glibc"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "5db322ee5b0052f9e4abf14b7513fc14574855b7bca84c55cd2b0b1593f55250"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[blaspp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2c3d6df82e20dcf16f54a103deccaf2c293c83f2"
+libc = "musl"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "76f7794a47244cbfee71595b094d8c9b6b6b18d3305d52174276ab07699a7537"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[blaspp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "620c57444ff830c5fe3286123a34cdb46ee234e5"
+libc = "musl"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "83ea35c938601883e811e474134dc0ef06cd0a9a070db5d9cc1be90521d0d85c"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[blaspp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a60502a0ed6414f1bdcce236cb321f9b095a6dd7"
+libc = "glibc"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "ecdcf0775ebc25a8aa1ba8d57236f5af1da2ac143496d17c7ef9b6460e9efb1b"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.i686-linux-gnu-cxx03.tar.gz"
+[[blaspp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e4b2a560a898fdd5c26031dbafdf408818fe9379"
+libc = "glibc"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "01d5ec5c9c40097f74c0028ae7b9c272e563c8972cfb543ea5749797cadd7ca0"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.i686-linux-gnu-cxx11.tar.gz"
+[[blaspp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c9d134c9a344211919604d822442998981229595"
+libc = "musl"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "063916c058c5e59f0bd1dd6d32734bab0303a9705a962830609db67a6892334b"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.i686-linux-musl-cxx03.tar.gz"
+[[blaspp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f8f358b26752c4a734c30d756ded2198c01f5711"
+libc = "musl"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "3f62d26d2b6d089ec9336ae7afcd5fd7d113e79ed17651189c9be18e70d9b84c"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.i686-linux-musl-cxx11.tar.gz"
+[[blaspp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "368f3dcac53ddd822a6065f5c816612c43ddf5f4"
+os = "windows"
+
+    [[blaspp.download]]
+    sha256 = "7e18d9e2738797b9374815bde38e6cbf379bec221e330a645b13f570db02d297"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.i686-w64-mingw32-cxx03.tar.gz"
+[[blaspp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "056c11b3852e44ab08ea93afee86940b667d6e3e"
+os = "windows"
+
+    [[blaspp.download]]
+    sha256 = "df45a346af71839111bbd6a1336853f64c651137eb0736de7175da0e01199b43"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.i686-w64-mingw32-cxx11.tar.gz"
+[[blaspp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8e563441fe68f287798f2c7d7112536fe588af45"
+libc = "glibc"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "76824972c020b0d80726e6459d3e202b814e2118247e6f3c2028903566719c71"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[blaspp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c96a6b9f83030883036efc6d61215e50c032a02c"
+libc = "glibc"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "26f6289496e1878ed3eccee728e38bfeea412630a19f9c28672836b9ee0e77aa"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[blaspp]]
+arch = "x86_64"
+git-tree-sha1 = "6554eba89ebddbbc26f159d9a28b514f9758ac81"
+os = "macos"
+
+    [[blaspp.download]]
+    sha256 = "b174275c87c6714a6b16635df60b57bb1c67398705022c2828882b66d331a39e"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.x86_64-apple-darwin.tar.gz"
+[[blaspp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b87cbb14c5e46792326caf1ca7d9ffb84b06266e"
+libc = "glibc"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "e5be704a099f914e27170f6804f5a7a895d0b27a79abe131b26949368b547960"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[blaspp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e1f30332841bf1ec572f88aebfcf45d69373c9e3"
+libc = "glibc"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "54be6a7a054282a546630fce39033f892510b93b6fe7f5e1a01c3bf6c7dce5bb"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[blaspp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "221ff3136940a53bc4fb0deb89eab8c9c334a282"
+libc = "musl"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "07c359c9e5b5ffb5c3e1f4ebebe005103fc1746d8b14d9aa047f202994ddc076"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.x86_64-linux-musl-cxx03.tar.gz"
+[[blaspp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "529f8a95e8bc00675f1fcd5c07904574f7764849"
+libc = "musl"
+os = "linux"
+
+    [[blaspp.download]]
+    sha256 = "afb8848e5e88582485bdeed2617d17ded16c2fbeb0517a40f4a5add9bf2d0c99"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.x86_64-linux-musl-cxx11.tar.gz"
+[[blaspp]]
+arch = "x86_64"
+git-tree-sha1 = "7f458205c74c2703e00a48913d6861e86d080d14"
+os = "freebsd"
+
+    [[blaspp.download]]
+    sha256 = "6dfad3c51c6952fba5613ed9016badf57d44a9fc329bdcb3a11a2a3884493ccd"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.x86_64-unknown-freebsd.tar.gz"
+[[blaspp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "deeb12d9f20dcdf2fa600b07de4295946f8c6a2a"
+os = "windows"
+
+    [[blaspp.download]]
+    sha256 = "155c772f5f3564c05057dfaee44e6cb09e22c29b7df19326ed1fd91877d35186"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[blaspp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "deb9248a151b4e32bfbe65f7176ff07d3f2719f3"
+os = "windows"
+
+    [[blaspp.download]]
+    sha256 = "303e0ab2896bb6715307f0dafbadc0b4cdd022a29f403db92ba99b640203ba50"
+    url = "https://github.com/JuliaBinaryWrappers/blaspp_jll.jl/releases/download/blaspp-v2021.4.1+0/blaspp.v2021.4.1.x86_64-w64-mingw32-cxx11.tar.gz"
